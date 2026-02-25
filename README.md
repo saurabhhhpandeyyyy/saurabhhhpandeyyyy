@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # Saurabh Pandey
@@ -19,7 +20,7 @@ Pursuing my **MS in Data Science at the University of Wisconsin–Madison**, wit
 
 Previously built and shipped real AI systems at **Tata Communications** and **Scale AI's platforms (Outlier & Remotasks)** — processing millions of enterprise records and improving how organizations interact with their data.
 
-Currently exploring **MCP (Model Context Protocol)**, **multi-agent frameworks**, and the latest in agentic AI — building systems that don't just respond, but reason, plan, and act.
+I care about building AI that works cleanly in production — not just in notebooks.
 
 ---
 
@@ -33,6 +34,29 @@ Engineered 200+ prompting strategies across 5+ LLM pipelines, applied RLHF to fi
 
 🏢 **Tata Communications** — Project Trainee, Generative AI *(Dec 2023 – Mar 2024)*
 Fine-tuned Mistral-7B & LLaMA-2 using LoRA/QLoRA achieving 60% model size reduction, cut inference costs by ~50% through quantization and knowledge distillation.
+
+---
+
+## 🌱 Currently Learning
+
+The AI space moves fast — here's what I'm actively exploring right now:
+
+- **MCP (Model Context Protocol)** — Anthropic's open standard for connecting AI models to real-world tools and data sources. The infrastructure layer that makes agentic AI actually work at scale.
+- **Agentic AI & Multi-Agent Systems** — Building AI that doesn't just respond but reasons, plans, and executes multi-step tasks autonomously using LangGraph and AutoGen.
+- **Reasoning Models** — Exploring how models like o1, o3, and DeepSeek-R1 approach complex problem-solving differently from standard LLMs.
+- **LLMOps & Production AI** — Monitoring, evaluating, and maintaining LLM systems in production — because shipping is only half the battle.
+- **Graph RAG** — Moving beyond flat vector search into graph-based knowledge retrieval for more structured, relationship-aware AI systems.
+
+---
+
+## 🤝 Open to Collaborate On
+
+- **Agentic AI systems** using MCP, LangGraph, AutoGen
+- **RAG pipelines** and advanced retrieval architectures
+- **LLM fine-tuning** for domain-specific applications
+- **Healthcare AI** and **accessibility technology**
+- **Data Engineering** pipelines at scale
+- Anything at the intersection of **real-world impact and cutting-edge AI**
 
 ---
 
@@ -70,21 +94,21 @@ Fine-tuned Mistral-7B & LLaMA-2 using LoRA/QLoRA achieving 60% model size reduct
 ### 🏥 [PCOS Diagnosis & Personalized Meal Recommendation System](https://github.com/saurabhhhpandeyyyy/PCOS_Detection_Meal)
 > RAG · LangChain · FAISS · XGBoost · PyTorch
 
-Stacked ensemble model (ANN + XGBoost + Random Forest) achieving **89.5% diagnostic accuracy** across 44 clinical features, paired with a RAG-powered chatbot delivering personalized health recommendations in under 2 seconds.
+PCOS affects 1 in 10 women globally — yet nearly 70% go undiagnosed. Built a stacked ensemble model (ANN + XGBoost + Random Forest) achieving **89.5% diagnostic accuracy** across 44 clinical features, paired with a RAG-powered chatbot delivering personalized health recommendations in under 2 seconds.
 
 ---
 
 ### 👁️ [Assistive AI for the Visually Impaired](https://github.com/saurabhhhpandeyyyy/AI_ACCESSIBLE)
 > YOLOv8 · BLIP · MediaPipe · TTS · Python
 
-Real-time assistive pipeline integrating object detection, gesture recognition, scene captioning, and text-to-speech — delivering full scene narration with **under 500ms end-to-end latency**.
+Real-time assistive pipeline integrating object detection, gesture recognition, scene captioning, and text-to-speech — delivering full scene narration for visually impaired users with **under 500ms end-to-end latency**.
 
 ---
 
 ### 🚗 AI-Powered Unsafe Driving Detection System
 > 3D CNN · GAN · Zero-DCE · Python · Dash
 
-Real-time driver drowsiness and distraction detection achieving **91% precision**, with GAN-based image enhancement improving low-light accuracy by 18% and live results on a fleet monitoring dashboard.
+Real-time driver drowsiness and distraction detection achieving **91% precision**, with GAN-based image enhancement improving low-light accuracy by 18% and live results surfaced on a fleet monitoring dashboard.
 
 ---
 
@@ -97,5 +121,7 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 ---
 
 <div align="center">
-<i>Open to Summer 2026 internships in AI/ML · Data Science · GenAI · Data Engineering</i>
+<i>Open to Summer 2026 internships in AI/ML · Data Science · GenAI · Data Engineering</i><br><br>
+<i>Always happy to connect — feel free to reach out! 😊</i>
 </div>
+```
