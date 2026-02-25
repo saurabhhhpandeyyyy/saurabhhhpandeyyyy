@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saurabh Pandey 👋
+# Hi, I'm Saurabh Rajesh Pandey 
 
 ### MS Data Science @ UW–Madison | GenAI · LLMs · RAG · Agentic AI
 
@@ -117,11 +117,20 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 
 ---
 
-## 📈 LeetCode
+## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.com/SaurabhPandey8?theme=dark&font=Nunito&ext=contest)
+<div align="center">
 
-**450+ Problems Solved** · 104 Easy · 282 Medium · 64 Hard · Contest Rating: 1,432
+[![LeetCode Stats](https://leetcard.jacoblin.com/SaurabhPandey8?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/SaurabhPandey8)
+
+**450+ Problems Solved**
+
+![Easy](https://img.shields.io/badge/Easy-104-00b8a3?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-282-ffc01e?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-64-ef4743?style=flat-square)
+![Rating](https://img.shields.io/badge/Contest_Rating-1432-blue?style=flat-square)
+
+</div>
 
 ---
 
