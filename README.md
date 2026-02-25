@@ -131,7 +131,7 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 [![View Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
 
 </div>
----
+
 
 <div align="center">
 <i>🚀 Open to Summer 2026 Internships — AI/ML · Data Science · GenAI · Data Engineering</i>
