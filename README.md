@@ -121,17 +121,16 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.com/SaurabhPandey8?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/SaurabhPandey8)
-
 **450+ Problems Solved**
 
-![Easy](https://img.shields.io/badge/Easy-104-00b8a3?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-282-ffc01e?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-64-ef4743?style=flat-square)
-![Rating](https://img.shields.io/badge/Contest_Rating-1432-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-104-00b8a3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-282-ffc01e?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-64-ef4743?style=for-the-badge)
+![Rating](https://img.shields.io/badge/Contest_Rating-1432-0077B5?style=for-the-badge)
+
+[![View Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
 
 </div>
-
 ---
 
 <div align="center">
