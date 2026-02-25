@@ -1,18 +1,67 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Retrieval-Augmented Generation (RAG) models for enhancing data retrieval and contextual information organization.<br>Exploring Graph RAG techniques for improved knowledge representation.<br>Developing AI-powered systems to address accessibility challenges.<br>🤝 I’m looking to collaborate on:<br>AI-based healthcare solutions like personalized meal detection systems.<br>Generative AI applications for solving real-world business problems.<br>Projects involving fine-tuning Large Language Models (LLMs) for adaptive use cases.<br>🛠 I’m looking for help with:<br>Advanced Reinforcement Learning techniques.<br>Scaling and deploying AI models for large-scale production environments.<br>Optimizing Graph RAG implementations for knowledge organization.<br>🌱 I’m currently learning:<br>Advanced applications of Retrieval-Augmented Generation (RAG).<br>Graph Neural Networks and their integration into AI pipelines.<br>Cutting-edge Generative AI technologies like Mistral and LLaMA.<br>💬 Ask me about:<br>AI solutions for healthcare, accessibility, and driver safety.<br>Fine-tuning and optimizing Large Language Models (LLMs).<br>Building interactive dashboards for data visualization and insights.<br>⚡ Fun fact:<br>I created an AI assistant with eye-tracking and object detection to support people with disabilities, achieving over 90% accuracy in key metrics.
+# Hi, I'm Saurabh Pandey 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-40037228b/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saurabhhhpandeyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhhhpandeyyyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhhhpandeyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Pursuing MS in Data Science @ UW–Madison | B.Tech CS @ VIT Vellore  
+📍 Based in the United States | Open to AI/ML · Data Science · GenAI Internships
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saurabhhhpandeyyyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> ⁠
+## 💫 About Me
+
+I'm a Data Science grad student at the University of Wisconsin–Madison with hands-on experience building production-grade GenAI systems — RAG pipelines, fine-tuned LLMs, and agentic AI workflows.
+
+Over the past two years I've worked at **Tata Communications** and **Scale AI's platforms (Outlier & Remotasks)**, shipping real systems that processed millions of records and improved how enterprises interact with their data.
+
+Right now I'm deep into **MCP (Model Context Protocol)**, **multi-agent frameworks**, and the latest in agentic AI — because I believe the next big shift in AI isn't just better models, it's smarter systems that can reason, plan, and act.
+
+---
+
+## 🔭 Currently Working On
+- Agentic AI workflows using MCP, LangGraph, and AutoGen
+- Advanced RAG architectures with graph-based retrieval
+- Exploring reasoning models and multi-step AI agents
+
+## 🌱 Currently Learning
+- Model Context Protocol (MCP) architecture
+- LangGraph & AutoGen for multi-agent systems
+- MLOps and large-scale AI deployment
+
+## 🤝 Looking to Collaborate On
+- GenAI and LLM-powered applications
+- Healthcare AI and accessibility tech
+- Anything where data meets real-world impact
+
+## 💬 Ask Me About
+- LLM Fine-tuning (LoRA/QLoRA/PEFT)
+- RAG systems and vector databases
+- Prompt Engineering & RLHF
+- Getting started in AI/ML
+
+## ⚡ Fun Fact
+Built a real-time AI assistant for visually impaired users integrating YOLOv8, BLIP, and TTS — delivering full scene narration in under 500ms.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · SQL · R · Scala · C++  
+**AI/ML:** PyTorch · HuggingFace · Scikit-learn · LangChain · Haystack · FAISS  
+**GenAI:** RAG · LLM Fine-tuning · LoRA/QLoRA · RLHF · Prompt Engineering · Agentic AI  
+**Data Engineering:** Apache Spark · Kafka · Hadoop · Airflow  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**Tools:** Docker · Git · Linux · FastAPI
+
+---
+
+## 📊 GitHub Stats
+
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhhhpandeyyyy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhhhpandeyyyy&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhpandey1108)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhhhpandeyyyy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhhpandeyyy@gmail.com)
