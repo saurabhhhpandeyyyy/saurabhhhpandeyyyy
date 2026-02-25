@@ -1,7 +1,6 @@
-```markdown
 <div align="center">
 
-# Saurabh Pandey
+# Hi, I'm Saurabh Pandey 👋
 
 ### MS Data Science @ UW–Madison | GenAI · LLMs · RAG · Agentic AI
 
@@ -10,11 +9,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhhhpandeyyyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhhpandeyyy@gmail.com)
 
+📍 United States &nbsp;|&nbsp; 📧 saurabhhpandeyyy@gmail.com
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Pursuing my **MS in Data Science at the University of Wisconsin–Madison**, with hands-on production experience across the full GenAI stack — RAG pipelines, LLM fine-tuning, AI agents, and RLHF.
 
@@ -24,10 +25,10 @@ I care about building AI that works cleanly in production — not just in notebo
 
 ---
 
-## Experience Highlights
+## 💼 Experience Highlights
 
 🏢 **Tata Communications** — Project Trainee, Data Science & AI *(Dec 2024 – Jun 2025)*
-Built graph-based RAG pipelines over 500K+ documents, deployed GPT-4 & LLaMA-powered AI agents automating 6 enterprise workflows, processing 2M+ records/month.
+Built graph-based RAG pipelines over 500K+ documents, deployed GPT-4 & LLaMA-powered AI agents automating 6 enterprise workflows processing 2M+ records/month.
 
 🤖 **Scale AI (via Outlier & Remotasks)** — AI Prompt Engineer *(Feb 2024 – Sep 2024)*
 Engineered 200+ prompting strategies across 5+ LLM pipelines, applied RLHF to fine-tune multimodal models, curated 10K+ training samples for LLM alignment.
@@ -39,24 +40,28 @@ Fine-tuned Mistral-7B & LLaMA-2 using LoRA/QLoRA achieving 60% model size reduct
 
 ## 🌱 Currently Learning
 
-The AI space moves fast — here's what I'm actively exploring right now:
+The AI space moves fast — here's what I'm actively diving into:
 
-- **MCP (Model Context Protocol)** — Anthropic's open standard for connecting AI models to real-world tools and data sources. The infrastructure layer that makes agentic AI actually work at scale.
-- **Agentic AI & Multi-Agent Systems** — Building AI that doesn't just respond but reasons, plans, and executes multi-step tasks autonomously using LangGraph and AutoGen.
-- **Reasoning Models** — Exploring how models like o1, o3, and DeepSeek-R1 approach complex problem-solving differently from standard LLMs.
-- **LLMOps & Production AI** — Monitoring, evaluating, and maintaining LLM systems in production — because shipping is only half the battle.
-- **Graph RAG** — Moving beyond flat vector search into graph-based knowledge retrieval for more structured, relationship-aware AI systems.
+| Technology | What & Why |
+|---|---|
+| **MCP (Model Context Protocol)** | Anthropic's open standard for connecting AI to real-world tools — the backbone of production agentic systems |
+| **Agentic AI & Multi-Agent Systems** | LangGraph & AutoGen — building AI that reasons, plans, and executes multi-step tasks autonomously |
+| **Reasoning Models** | o1, o3, DeepSeek-R1 — how next-gen models approach complex problem-solving differently |
+| **LLMOps** | Monitoring, evaluating, and maintaining LLM systems in production at scale |
+| **Graph RAG** | Moving beyond flat vector search into graph-based knowledge retrieval |
+| **Vision-Language Models** | GPT-4V, LLaVA — multimodal AI systems connecting vision and language |
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🤝 Let's Collaborate On
 
-- **Agentic AI systems** using MCP, LangGraph, AutoGen
-- **RAG pipelines** and advanced retrieval architectures
-- **LLM fine-tuning** for domain-specific applications
-- **Healthcare AI** and **accessibility technology**
-- **Data Engineering** pipelines at scale
-- Anything at the intersection of **real-world impact and cutting-edge AI**
+- 🤖 **Agentic AI systems** — MCP, LangGraph, AutoGen, tool-use pipelines
+- 🔍 **Advanced RAG** — Graph RAG, hybrid retrieval, multi-hop reasoning
+- 🧠 **LLM Fine-tuning** — Domain-specific model adaptation using LoRA/QLoRA
+- 🏥 **Healthcare AI** — Clinical decision support and medical NLP
+- ♿ **Accessibility Technology** — AI for underserved and differently-abled communities
+- ⚡ **Data Engineering** — Scalable pipelines, real-time processing, MLOps
+- 🌍 Anything at the intersection of **cutting-edge AI and real-world impact**
 
 ---
 
@@ -89,7 +94,7 @@ The AI space moves fast — here's what I'm actively exploring right now:
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 ### 🏥 [PCOS Diagnosis & Personalized Meal Recommendation System](https://github.com/saurabhhhpandeyyyy/PCOS_Detection_Meal)
 > RAG · LangChain · FAISS · XGBoost · PyTorch
@@ -121,7 +126,7 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 ---
 
 <div align="center">
-<i>Open to Summer 2026 internships in AI/ML · Data Science · GenAI · Data Engineering</i><br><br>
-<i>Always happy to connect — feel free to reach out! 😊</i>
+<i>🚀 Open to Summer 2026 Internships — AI/ML · Data Science · GenAI · Data Engineering</i>
+<br><br>
+<i>Always happy to connect and collaborate — feel free to reach out! 😊</i>
 </div>
-```
