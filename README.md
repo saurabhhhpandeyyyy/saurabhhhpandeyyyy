@@ -2,7 +2,7 @@
 
 # Hi, I'm Saurabh Rajesh Pandey 
 
-### MS Data Science @ UW–Madison | GenAI · LLMs · RAG · Agentic AI
+### MS Data Science @ University of Wisconsin–Madison | GenAI · LLMs · RAG · Agentic AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhpandey1108)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
