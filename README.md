@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saurabh Rajesh Pandey 
+# Hi, I'm Saurabh Rajesh Pandey
 
 ### MS Data Science @ University of Wisconsin–Madison | GenAI · LLMs · RAG · Agentic AI
 
@@ -21,7 +21,7 @@ Pursuing my **MS in Data Science at the University of Wisconsin–Madison**, wit
 
 Previously built and shipped real AI systems at **Tata Communications** and **Scale AI's platforms (Outlier & Remotasks)** — processing millions of enterprise records and improving how organizations interact with their data.
 
-I care about building AI that works cleanly in production — not just in notebooks.
+My work is guided by a simple belief: **AI should solve real problems for real people.** Every system I build — whether it's helping diagnose PCOS, keeping workers safe in semiconductor fabs, or making the world more accessible for the visually impaired — is grounded in the question: *who does this help, and how much?*
 
 ---
 
@@ -96,22 +96,41 @@ The AI space moves fast — here's what I'm actively diving into:
 
 ## 📂 Featured Projects
 
+### 🛡️ [EHSS — AI Multi-Agent Workplace Safety Triage System](https://github.com/saurabhhhpandeyyyy)
+> LangGraph · Claude AI · RAG · FAISS · FastAPI · SQLite · Pydantic · LangChain
+
+Every year, workplace incidents in semiconductor fabs and industrial facilities result in injuries, fatalities, and billions in preventable costs — often because triage is slow, inconsistent, and knowledge doesn't transfer across incidents. This system changes that.
+
+A production-grade **5-agent AI pipeline** that triages workplace safety incidents in **<30 seconds** — auto-classifying severity, performing root cause analysis using **5-Why + Fishbone methodology**, searching a knowledge base of SOPs and past incidents via vector similarity, and generating **8–15 corrective actions** with owners, deadlines, and cost estimates. Built for semiconductor fabs with full **OSHA-compliant audit trails**, REST API, SQLite persistence, automatic human escalation for critical incidents, and **63 passing tests**.
+
+```
+5 AI Agents · Conditional Routing · Graceful Degradation · REST API · 63 Tests
+```
+
+---
+
 ### 🏥 [PCOS Diagnosis & Personalized Meal Recommendation System](https://github.com/saurabhhhpandeyyyy/PCOS_Detection_Meal)
 > RAG · LangChain · FAISS · XGBoost · PyTorch
 
-PCOS affects 1 in 10 women globally — yet nearly 70% go undiagnosed. Built a stacked ensemble model (ANN + XGBoost + Random Forest) achieving **89.5% diagnostic accuracy** across 44 clinical features, paired with a RAG-powered chatbot delivering personalized health recommendations in under 2 seconds.
+PCOS affects **1 in 10 women globally** — yet nearly 70% go undiagnosed, often for years. Late or missed diagnosis leads to serious long-term health consequences. This system exists to close that gap.
+
+Built a stacked ensemble model (ANN + XGBoost + Random Forest) achieving **89.5% diagnostic accuracy** across 44 clinical features, paired with a RAG-powered chatbot delivering personalized health recommendations in under 2 seconds — turning clinical data into actionable guidance.
 
 ---
 
 ### 👁️ [Assistive AI for the Visually Impaired](https://github.com/saurabhhhpandeyyyy/AI_ACCESSIBLE)
 > YOLOv8 · BLIP · MediaPipe · TTS · Python
 
-Real-time assistive pipeline integrating object detection, gesture recognition, scene captioning, and text-to-speech — delivering full scene narration for visually impaired users with **under 500ms end-to-end latency**.
+Millions of visually impaired people navigate environments designed without them in mind. This pipeline is a small step toward changing that.
+
+A real-time assistive system integrating object detection, gesture recognition, scene captioning, and text-to-speech — delivering full scene narration for visually impaired users with **under 500ms end-to-end latency**. Built to run on accessible hardware, not just high-end rigs.
 
 ---
 
 ### 🚗 AI-Powered Unsafe Driving Detection System
 > 3D CNN · GAN · Zero-DCE · Python · Dash
+
+Road fatalities remain one of the most preventable causes of death worldwide — with drowsiness and distraction as leading contributors. This system brings AI-powered vigilance to fleet monitoring.
 
 Real-time driver drowsiness and distraction detection achieving **91% precision**, with GAN-based image enhancement improving low-light accuracy by 18% and live results surfaced on a fleet monitoring dashboard.
 
@@ -132,9 +151,10 @@ Real-time driver drowsiness and distraction detection achieving **91% precision*
 
 </div>
 
+---
 
 <div align="center">
 <i>🚀 Open to Summer 2026 Internships — AI/ML · Data Science · GenAI · Data Engineering</i>
 <br><br>
-<i>Always happy to connect and collaborate — feel free to reach out! 😊</i>
+<i>I believe the best AI is the kind that quietly improves someone's day — or saves a life. Always happy to connect and collaborate. 😊</i>
 </div>
