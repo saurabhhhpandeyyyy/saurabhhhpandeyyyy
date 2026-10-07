@@ -88,13 +88,10 @@ The field is moving fast, and I'm having a lot of fun keeping up. Here is where 
 | Area | What I'm digging into |
 |---|---|
 | **Physical AI & robotics** | Vision-Language-Action (VLA) models, imitation and reinforcement learning for robot skills, sim-to-real transfer, and embodied agents that see, reason, and act |
-| **Agentic systems** | MCP and agent-to-agent protocols, tool use, multi-agent orchestration, memory and context engineering, and human-in-the-loop design |
 | **Safe, reliable AI in production** | Evaluation suites, LLM-as-judge, groundedness checks, guardrails, tracing and observability, and failure-mode analysis, so systems stay trustworthy after launch |
 | **Post-training & alignment** | RLHF, DPO, and GRPO, and how reasoning models think through hard problems |
-| **Advanced retrieval** | Hybrid search, reranking, GraphRAG, and permission-aware retrieval over enterprise data |
 | **Efficient inference** | Quantization, distillation, serving with vLLM, and on-device models small and fast enough for real hardware |
 | **Multimodal AI** | Vision-language models that connect what a system sees to what it understands |
-| **AI-native engineering** | Building with coding agents like Claude Code, and the testing and CI habits that make AI-written code safe to ship |
 
 My computer vision work and my agent work feel like two halves of the same future, and physical AI is where they meet.
 
