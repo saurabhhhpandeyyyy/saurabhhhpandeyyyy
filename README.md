@@ -40,12 +40,14 @@ Helping undergraduates learn to tell honest stories with data in R, under Prof. 
 
 **Agentic AI & Multi-Agent Orchestration Intern** · *May 2026 to Aug 2026*
 
-My summer with the Global EHS team, working on a **multi-agent safety intelligence system** for root cause analysis (RCA) and corrective and preventive actions (CAPA).
+My summer with the Safety AI team. Together we built a **multi-agent safety intelligence system** that helps the team learn from incidents: root cause analysis (RCA), corrective and preventive actions (CAPA), and spotting patterns before they become the next incident.
 
-- Built an **LLM-powered pipeline** that turns unstructured incident records into clean, structured data, connecting **Snowflake, ServiceNow, and SAP**, with a data-quality gatekeeper, confidence scoring, and a human in the loop
-- **Architected the multi-agent system** on Google Cloud (ADK, LangGraph, Gemini), where downstream agents consume that data to derive **RCA and CAPA insights** and enable **predictive analytics of incidents**
-- Used **Snowflake Cortex Code** to derive insights from curated SQL views and shared them through **Power BI dashboards**
-- Built a **time-series weather pipeline** (NASA POWER, ERA5) feeding an ML model of weather effects on fab power use
+- **Built the LLM-powered pipeline at the heart of it**, turning unstructured incident records into clean, structured data from **Snowflake, ServiceNow, and SAP**, with a data-quality gatekeeper, confidence scoring, and a human in the loop for anything uncertain
+- **Built the multi-agent system** with the team on Google Cloud (ADK, LangGraph, Gemini), where downstream agents consume that data to derive **RCA and CAPA insights** and enable **predictive analytics of incidents**
+- Used **Snowflake Cortex Code** to derive insights from curated SQL views, and shared them with the team through **Power BI dashboards**
+- Built a **time-series weather pipeline** (NASA POWER, ERA5) feeding an ML model of how weather affects fab power use
+
+What stayed with me most: the best systems came from listening first, and shaping every step around how the team actually works.
 
 <br>
 
