@@ -2,15 +2,15 @@
 
 # Hi, I'm Saurabh Rajesh Pandey
 
-### MS Data Science @ UW-Madison · Aspiring Full-Stack AI Engineer
+### 🎓 MS Data Science @ University of Wisconsin-Madison &nbsp;·&nbsp; 🤖 Aspiring Full-Stack AI Engineer
 
-*I turn messy, real-world data into AI that people can trust, and I'm learning what it takes to make AI safe and reliable in production.*
+*I build AI that people can trust, and I'm learning how to keep it safe and reliable in the real world.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhpandey1108)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhhpandeyyy@gmail.com)
 
-📍 Madison, Wisconsin &nbsp;·&nbsp; 🎓 MS Data Science @ UW-Madison, May 2027 &nbsp;·&nbsp; 💼 Open to 2027 roles in Software, AI, and Data Science
+📍 Madison, Wisconsin &nbsp;·&nbsp; 🗓️ Graduating May 2027 &nbsp;·&nbsp; 💼 Open to 2027 roles in Software, AI, and Data Science
 
 </div>
 
