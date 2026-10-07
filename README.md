@@ -18,11 +18,11 @@
 
 ## 🌱 About Me
 
-I build AI that works outside the notebook. Agents that read messy records, retrieval systems that answer real questions, and models that hold up when real people depend on them.
+I build AI that works outside the notebook: agents that read messy records, retrieval systems that answer real questions, and models that hold up when people depend on them.
 
-I learned early that a demo is easy and trust is hard, so I design for trust: validation at every step, honest evaluation, and a human in the loop where it matters.
+A demo is easy and trust is hard, so I design for trust: validation at every step, honest evaluation, and a human in the loop where it matters.
 
-Currently finishing my **MS in Data Science at UW-Madison**, where I also TA Statistical Data Visualization, after building AI systems at **Micron** and **Tata Communications**. I'm growing into a full-stack AI engineer, and lately I've been falling for **physical AI**, where models finally get to see, reason, and act in the real world. What a time to be learning. 🤖
+Finishing my **MS in Data Science at UW-Madison** (and TAing Statistical Data Visualization) after building AI at **Micron** and **Tata Communications**. Lately I've been falling for **physical AI**, where models finally get to see, reason, and act in the real world. What a time to be learning. 🤖
 
 ---
 
@@ -99,33 +99,13 @@ My computer vision work and my agent work feel like two halves of the same futur
 
 ## 📂 Featured Projects
 
-### 👁️ [Assistive AI for the Visually Impaired](https://github.com/saurabhhhpandeyyyy/AI_ACCESSIBLE)
-
-> YOLOv8 · BLIP · MediaPipe · TTS · Python
-
-**The problem:** Visually impaired people often rely on others to describe what's around them, and most assistive tools are either too slow or describe only one thing at a time.
-
-**What I did:** Built a real-time pipeline that combines object detection, gesture recognition, scene captioning, and text-to-speech into one narrated stream, delivering a full description of the surroundings in **under 500ms**.
-
-<br>
-
 ### 🏥 [PCOS Diagnosis & Personalized Meal Recommendation](https://github.com/saurabhhhpandeyyyy/PCOS_Detection_Meal)
 
 > XGBoost · PyTorch · LangChain · FAISS · RAG
 
-**The problem:** PCOS affects about 1 in 10 women, yet most cases go undiagnosed for years, and generic diet advice rarely fits an individual.
+**The problem:** PCOS affects about 1 in 10 women, and most of them wait years for a diagnosis. Even then, the advice they get is usually a generic diet sheet that fits no one in particular.
 
-**What I did:** Trained a stacked ensemble (neural network, XGBoost, Random Forest) on 44 clinical features that reaches **89.5% accuracy**, and paired it with a RAG assistant that serves evidence-backed meal recommendations in **under 2 seconds**.
-
-<br>
-
-### 🚗 Unsafe Driving Detection
-
-> 3D CNN · GAN · Zero-DCE · PyTorch
-
-**The problem:** Drowsy and distracted driving causes a large share of road accidents, and most detectors fail at night, when the risk is highest.
-
-**What I did:** Trained a 3D CNN on spatiotemporal video to catch drowsiness and distraction at **91% precision**, and used GAN and Zero-DCE enhancement to lift low-light accuracy by **18%**.
+**What I built:** A stacked ensemble (neural network, XGBoost, Random Forest) that reads 44 clinical features and reaches **89.5% accuracy**, paired with a RAG assistant that turns the result into evidence-backed meal recommendations in **under 2 seconds**. A diagnosis and a plan, in one conversation.
 
 <br>
 
@@ -133,9 +113,29 @@ My computer vision work and my agent work feel like two halves of the same futur
 
 > LangGraph · RAG · FAISS · FastAPI · Pydantic
 
-**The problem:** When a workplace incident is reported, someone has to classify it, dig through past incidents and procedures, and plan corrective actions, which takes hours when minutes matter.
+**The problem:** When an incident happens at work, someone has to judge how serious it is, dig through past incidents and procedures, and plan what to fix. That takes hours, and the first hour is when it matters most.
 
-**What I did:** A personal project exploring how a team of agents can classify severity, retrieve relevant past incidents and procedures, suggest corrective actions, and escalate critical cases to a human, with validation at every step.
+**What I built:** A personal project where a small team of agents splits that work: one classifies severity, one retrieves similar incidents and the right procedures, one drafts corrective actions, and anything critical is escalated straight to a human. Validation at every step, because a safety tool has to earn trust before it earns speed.
+
+<br>
+
+### 🚗 Unsafe Driving Detection
+
+> 3D CNN · GAN · Zero-DCE · PyTorch
+
+**The problem:** Drowsy and distracted driving causes a large share of road accidents, and most detectors go blind at night, exactly when drivers are most tired.
+
+**What I built:** A 3D CNN that watches short video clips rather than single frames, catching drowsiness and distraction at **91% precision**. GAN and Zero-DCE enhancement taught it to see in the dark, lifting low-light accuracy by **18%**.
+
+<br>
+
+### 👁️ [Assistive AI for the Visually Impaired](https://github.com/saurabhhhpandeyyyy/AI_ACCESSIBLE)
+
+> YOLOv8 · BLIP · MediaPipe · TTS · Python
+
+**The problem:** For someone who cannot see, the world arrives one description at a time, usually from another person. Most assistive tools are too slow to keep up with walking pace.
+
+**What I built:** A real-time pipeline that fuses object detection, gesture recognition, scene captioning, and text-to-speech into one running narration of the surroundings, end to end in **under 500ms**. Fast enough to feel like a companion rather than a tool.
 
 ---
 
