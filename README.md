@@ -1,10 +1,10 @@
 <div align="center">
 
-# Saurabh Rajesh Pandey
+# Hi, I'm Saurabh Rajesh Pandey
 
-### Aspiring Full-Stack AI Engineer · Software · AI · Data Science
+### MS Data Science @ UW-Madison · Aspiring Full-Stack AI Engineer
 
-*Building AI that people can trust, from GenAI and agentic systems today to physical AI tomorrow. What an exciting time to be learning.*
+*I turn messy, real-world data into AI that people can trust, and I'm learning what it takes to make AI safe and reliable in production.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhpandey1108)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
@@ -18,11 +18,11 @@
 
 ## 🌱 About Me
 
-I'm finishing my **MS in Data Science at the University of Wisconsin-Madison**, where I also TA Statistical Data Visualization. Before that, I spent about a year and a half building real AI systems at **Tata Communications** and spent this past summer at **Micron Technology** working on agentic AI for workplace safety.
+I build AI that works outside the notebook. Agents that read messy records, retrieval systems that answer real questions, and models that hold up when real people depend on them.
 
-My happiest work lives where AI meets the real world: agents that read messy records, retrieval systems that answer real people's questions, and models that have to hold up outside a notebook. I care a lot about reliability, so I build in validation, confidence checks, and a human in the loop wherever it matters.
+I learned early that a demo is easy and trust is hard, so I design for trust: validation at every step, honest evaluation, and a human in the loop where it matters.
 
-I'm an aspiring **full-stack AI engineer**: comfortable across data pipelines, model training, agents, and the services that ship them. And lately I've been falling for **physical AI**. After years of teaching models to understand text and images, I'm excited about the next step, AI that can see, reason, and act in the physical world. 🤖
+Currently finishing my **MS in Data Science at UW-Madison** after building AI systems at **Micron** and **Tata Communications**. I'm growing into a full-stack AI engineer, and lately I've been falling for **physical AI**, where models finally get to see, reason, and act in the real world. What a time to be learning. 🤖
 
 ---
 
@@ -48,16 +48,16 @@ Worked with the Global EHS team on a **multi-agent safety intelligence system** 
 
 ---
 
-## 🦾 Where I'm Heading: Physical AI
+## 🧭 What I'm Learning Right Now
 
-| Exploring | Why it excites me |
+| Area | What I'm digging into |
 |---|---|
-| **Vision-Language-Action (VLA) models** | Models that connect what a robot sees and hears to what it does |
-| **Robot learning** | Imitation and reinforcement learning for skills that transfer to the real world |
-| **Embodied agents** | Bringing the planning and tool use I build for LLM agents into physical systems |
-| **Efficient on-device models** | Making models small and fast enough to run on real hardware |
+| **Safe, reliable AI in production** | Evaluation suites, LLM-as-judge, groundedness checks, guardrails, observability, and failure-mode analysis, so agents stay trustworthy after launch |
+| **Agentic systems** | MCP, tool use, multi-agent orchestration, and human-in-the-loop design |
+| **Physical AI** | Vision-Language-Action (VLA) models, robot learning, and embodied agents |
+| **Efficient models** | Quantization and on-device inference, so models are small and fast enough for real hardware |
 
-My computer vision work (3D CNNs for driver monitoring, real-time assistive vision) and my agent work feel like two halves of the same future, and robotics is where they meet.
+My computer vision work and my agent work feel like two halves of the same future, and robotics is where they meet.
 
 ---
 
@@ -66,22 +66,26 @@ My computer vision work (3D CNNs for driver monitoring, real-time assistive visi
 ### 👁️ [Assistive AI for the Visually Impaired](https://github.com/saurabhhhpandeyyyy/AI_ACCESSIBLE)
 > YOLOv8 · BLIP · MediaPipe · TTS · Python
 
-A real-time system that combines object detection, gesture recognition, scene captioning, and text-to-speech to narrate surroundings for visually impaired users in **under 500ms**.
+**The problem:** Visually impaired people often rely on others to describe what's around them, and most assistive tools are either too slow or describe only one thing at a time.
+**What I did:** Built a real-time pipeline that combines object detection, gesture recognition, scene captioning, and text-to-speech into one narrated stream, delivering a full description of the surroundings in **under 500ms**.
 
 ### 🏥 [PCOS Diagnosis & Personalized Meal Recommendation](https://github.com/saurabhhhpandeyyyy/PCOS_Detection_Meal)
 > XGBoost · PyTorch · LangChain · FAISS · RAG
 
-PCOS affects about **1 in 10 women**, and most cases go undiagnosed. A stacked ensemble (neural network, XGBoost, Random Forest) reaches **89.5% accuracy** on 44 clinical features, paired with a RAG assistant that serves evidence-backed recommendations in **under 2 seconds**.
+**The problem:** PCOS affects about 1 in 10 women, yet most cases go undiagnosed for years, and generic diet advice rarely fits an individual.
+**What I did:** Trained a stacked ensemble (neural network, XGBoost, Random Forest) on 44 clinical features that reaches **89.5% accuracy**, and paired it with a RAG assistant that serves evidence-backed meal recommendations in **under 2 seconds**.
 
 ### 🚗 Unsafe Driving Detection
 > 3D CNN · GAN · Zero-DCE · PyTorch
 
-Real-time drowsiness and distraction detection at **91% precision**, with GAN and Zero-DCE enhancement lifting low-light results by **18%**.
+**The problem:** Drowsy and distracted driving causes a large share of road accidents, and most detectors fail at night, when the risk is highest.
+**What I did:** Trained a 3D CNN on spatiotemporal video to catch drowsiness and distraction at **91% precision**, and used GAN and Zero-DCE enhancement to lift low-light accuracy by **18%**.
 
 ### 🛡️ Multi-Agent Workplace Safety Triage
 > LangGraph · RAG · FAISS · FastAPI · Pydantic
 
-A personal project exploring how a team of agents can classify incident severity, search past incidents and procedures, suggest corrective actions, and escalate critical cases to a human.
+**The problem:** When a workplace incident is reported, someone has to classify it, dig through past incidents and procedures, and plan corrective actions, which takes hours when minutes matter.
+**What I did:** A personal project exploring how a team of agents can classify severity, retrieve relevant past incidents and procedures, suggest corrective actions, and escalate critical cases to a human, with validation at every step.
 
 ---
 
