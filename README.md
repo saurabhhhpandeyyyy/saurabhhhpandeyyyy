@@ -2,15 +2,15 @@
 
 # Saurabh Rajesh Pandey
 
-### MS Data Science @ UW-Madison · Agentic AI · RAG · Machine Learning · Physical AI
+### Aspiring Full-Stack AI Engineer · Software · AI · Data Science
 
-*I love turning messy, real-world data into AI that people can actually trust.*
+*Building AI that people can trust, from GenAI and agentic systems today to physical AI tomorrow. What an exciting time to be learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhpandey1108)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SaurabhPandey8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhhpandeyyy@gmail.com)
 
-📍 Madison, Wisconsin &nbsp;·&nbsp; 🎓 Graduating May 2027 &nbsp;·&nbsp; 💼 Open to 2027 AI roles
+📍 Madison, Wisconsin &nbsp;·&nbsp; 🎓 MS Data Science @ UW-Madison, May 2027 &nbsp;·&nbsp; 💼 Open to 2027 roles in Software, AI, and Data Science
 
 </div>
 
@@ -18,27 +18,33 @@
 
 ## 🌱 About Me
 
-I'm finishing my **MS in Data Science at the University of Wisconsin-Madison**, where I also TA Statistical Data Visualization.
+I'm finishing my **MS in Data Science at the University of Wisconsin-Madison**, where I also TA Statistical Data Visualization. Before that, I spent about a year and a half building real AI systems at **Tata Communications** and spent this past summer at **Micron Technology** working on agentic AI for workplace safety.
 
-Most of my work lives where AI meets the real world: agents that read messy records, retrieval systems that answer real people's questions, and models that have to hold up outside a notebook. I care a lot about reliability, so I build in validation, confidence checks, and a human in the loop wherever it matters.
+My happiest work lives where AI meets the real world: agents that read messy records, retrieval systems that answer real people's questions, and models that have to hold up outside a notebook. I care a lot about reliability, so I build in validation, confidence checks, and a human in the loop wherever it matters.
 
-Lately I've been falling for **physical AI**. After years of teaching models to understand text and images, I'm excited about the next step: AI that can see, reason, and act in the physical world. 🤖
+I'm an aspiring **full-stack AI engineer**: comfortable across data pipelines, model training, agents, and the services that ship them. And lately I've been falling for **physical AI**. After years of teaching models to understand text and images, I'm excited about the next step, AI that can see, reason, and act in the physical world. 🤖
 
 ---
 
 ## 💼 Experience
 
 **🔬 Micron Technology** · Agentic AI & Multi-Agent Orchestration Intern *(May 2026 to Aug 2026)*
-Built an LLM-powered pipeline that turns unstructured safety incident records into structured data, connecting Snowflake, ServiceNow, and SAP with human-in-the-loop review. Architected a safety intelligence system on Google Cloud (ADK, LangGraph, Gemini) where downstream agents use that data for root cause analysis and predictive analytics of incidents. Also built a weather data pipeline feeding an ML model of fab power use, with insights in Power BI.
+Worked with the Global EHS team on a **multi-agent safety intelligence system** for root cause analysis (RCA) and corrective and preventive actions (CAPA).
+- Built an **LLM-powered pipeline** that turns unstructured incident records into clean, structured data, connecting **Snowflake, ServiceNow, and SAP**, with a data-quality gatekeeper, confidence scoring, and a human in the loop
+- **Architected the multi-agent system** on Google Cloud (ADK, LangGraph, Gemini), where downstream agents consume that data to derive **RCA and CAPA insights** and enable **predictive analytics of incidents**
+- Used **Snowflake Cortex Code** to derive insights from curated SQL views and shared them through **Power BI dashboards**
+- Built a **time-series weather pipeline** (NASA POWER, ERA5) feeding an ML model of weather effects on fab power use
 
 **🏢 Tata Communications** · Project Trainee, Data Science & AI *(Dec 2024 to Jun 2025)*
-Built LLM agents (LangGraph, LangChain) automating 6 enterprise workflows over 2M+ records a month, and a RAG + GraphRAG assistant over 500K+ documents answering HR and payroll questions for employees worldwide.
+- Built **LLM agents** (LangGraph, LangChain) automating 6 enterprise workflows over **2M+ records a month**, cutting manual effort 40%
+- Developed a **RAG + GraphRAG assistant** over 500K+ documents, connected to Workday, answering HR and payroll questions for employees worldwide
+- Fixed cross-domain retrieval errors with semantic metadata tagging, cutting latency 35% at 10K+ daily queries
 
 **🤖 Soul AI (Outlier & Remotasks)** · AI Prompt Engineer *(Feb 2024 to Sep 2024)*
-Designed 200+ prompting strategies and evaluation frameworks across text and vision models, and structured 10K+ RLHF preference examples.
+- Designed **200+ prompting strategies** and evaluation frameworks across text and vision models, and structured **10K+ RLHF preference examples**
 
 **🏢 Tata Communications** · Project Trainee, Generative AI *(Dec 2023 to Mar 2024)*
-Fine-tuned Mistral-7B and LLaMA-2 with LoRA/QLoRA, and used quantization for 60% model compression and about 50% lower inference cost.
+- Fine-tuned **Mistral-7B and LLaMA-2** with LoRA/QLoRA, and used quantization for **60% model compression** and about 50% lower inference cost, served via FastAPI
 
 ---
 
